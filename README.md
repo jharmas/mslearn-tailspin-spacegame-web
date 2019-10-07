@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tailspin1003/Game%20Space%20-%20web/_apis/build/status/jharmas.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin1003/Game%20Space%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
